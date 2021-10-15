@@ -81,4 +81,3 @@ Spatial
 - Normalization
 
 Benchmarking
-<img width="272" alt="image" src="https://user-images.githubusercontent.com/22674952/137461030-1abd55e9-30dd-4631-8ec3-e33dc0b351ac.png">

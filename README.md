@@ -1,6 +1,14 @@
 # Project Based Learning
 Author: [Paulo Czarnewski](https://czarnewski.github.io/czarnewski/index.html)
 
-This is a repository for learning different topics using project-based learning.
+This is a repository for learning different topics using `project-based learning`.
 
-See [Topic List](topic_list.md)
+TO KEEP IN MIND:
+
+- Each millestone is divided to be completed within `1 hour` (more or less).
+- Try to be efficient as possible, google for answers and don't overthink it.
+- You can of course take your time later to "digest" the lessons learned.
+- All millestones are designed using "active learning".
+
+
+See [Topic List](milestone/topic_list.md)

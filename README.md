@@ -11,4 +11,4 @@ TO KEEP IN MIND:
 - All millestones are designed using "active learning".
 
 
-See [Topic List](milestone/topic_list.md)
+See [Topic List](milestones/topic_list.md)

@@ -3,6 +3,8 @@ Author: [Paulo Czarnewski](https://czarnewski.github.io/czarnewski/index.html)
 
 This is a repository for learning different topics using `project-based learning`.
 
+***
+
 TO KEEP IN MIND:
 
 - Each millestone is divided to be completed within `1 hour` (more or less).
@@ -13,6 +15,7 @@ TO KEEP IN MIND:
 
 See [Topic List](milestones/topic_list.md)
 
+***
 
 Topics:
 
@@ -21,3 +24,5 @@ Topics:
 [PCA (3 milestones)](milestones/pca.md)
 
 [GITHUB (3 milestones)](milestones/pca.md)
+
+***

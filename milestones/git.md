@@ -17,11 +17,12 @@ _This Milestone will allow you to start working with Git and Github_
 - Look at the files present in your repository, what are they?
 - Which file is displayed in the main page of your repository?
 
-
+***
 
 ## Milestone: WEBPAGE
 
 _This Milestone will allow you visualise your work and progress in PBL_
+
 _Depends: GITHUB_
 
 - Go ot your "USERNAME.github.io" repository
@@ -38,11 +39,12 @@ _Depends: GITHUB_
 - How do you add links?
 - How do you add images?
 
-
+***
 
 ## Milestone: GIT
 
 _This Milestone will allow you start working locally with git_
+
 _Depends: WEBPAGE, UNIX_
 
 
@@ -67,20 +69,4 @@ _Depends: WEBPAGE, UNIX_
 - Back to your terminal, type `git clone ` and paste the link copied. Should look like this:
     `git clone https://github.com/USERNAME/USERNAME.github.io.git`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-``
+***

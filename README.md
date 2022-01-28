@@ -12,3 +12,12 @@ TO KEEP IN MIND:
 
 
 See [Topic List](milestones/topic_list.md)
+
+
+Topics:
+
+[LINEAR ALGEBRA (3 milestones)](milestones/pca.md)
+
+[PCA (3 milestones)](milestones/pca.md)
+
+[GITHUB (3 milestones)](milestones/pca.md)

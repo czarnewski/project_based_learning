@@ -1,4 +1,4 @@
-## Milestone: PCA
+## Milestone: PCA_1
 
 _This Milestone will allow you to run full PCA_
 _Depends: MATRIX_OPERATIONS_
@@ -44,4 +44,4 @@ _This Milestone will allow you to get a deeper understanding of the power of PCA
 _Depends: PCA_2_
 
 - How can you recreate the original data from the matrices output from PCA?
-- How can you project new points into a computed PCA? You can multiply the 
+- How can you project new points into a computed PCA? You can multiply the
